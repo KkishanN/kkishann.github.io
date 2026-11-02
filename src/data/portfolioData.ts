@@ -30,7 +30,7 @@ export const PORTFOLIO_DATA = {
     email: "kishannadageri06@gmail.com",
     // Encoded to prevent automated web crawlers from scraping phone directly
     phone: typeof atob !== "undefined" ? atob("KzkxLTg5MDQ1MjY2Njc=") : "+91-8904526667",
-    location: "Paderborn, Germany",
+    location: "Karnataka, India",
     github: "https://github.com/KkishanN",
     linkedin: "https://linkedin.com/in/kishan-nadageri",
     resumeUrl: "./kishan_nadageri_resume.pdf",

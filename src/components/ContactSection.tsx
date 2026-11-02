@@ -55,7 +55,7 @@ export const ContactSection: React.FC = () => {
             
             <div className="space-y-4">
               <p className="text-sm sm:text-base text-slate-600 max-w-xl leading-relaxed">
-                I'm actively open to software engineering, backend, and distributed systems opportunities in Europe and remotely. Feel free to connect directly:
+                I'm actively open to software engineering, backend, and distributed systems opportunities. Feel free to connect directly:
               </p>
 
               <div className="flex flex-wrap gap-x-8 gap-y-3 text-xs sm:text-sm font-medium text-slate-700 pt-1">
